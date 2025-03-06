@@ -1,2 +1,4 @@
-# assets
-Assets and collateral 
+# Assets
+
+Assets for BarCamp Milwaukee
+
